@@ -1,0 +1,840 @@
+== TimeZones ==
+
+{{{
+<timeZones>
+  <timeZone id='Pacific/Midway' area='Pacific' millis='-39600000' hours='-11'>
+    <city name='Midway' />
+    <city name='Pago Pago' />
+    <city name='Samoa' />
+    <city name='Samoa' />
+  </timeZone>
+  <timeZone id='Pacific/Niue' area='Pacific' millis='-39600000' hours='-11'>
+    <city name='Niue' />
+  </timeZone>
+  <timeZone id='America/Adak' area='America' millis='-36000000' hours='-10'>
+    <city name='Adak' />
+    <city name='Atka' />
+    <city name='Aleutian' />
+  </timeZone>
+  <timeZone id='Pacific/Honolulu' area='Pacific' millis='-36000000' hours='-10'>
+    <city name='Honolulu' />
+    <city name='Johnston' />
+    <city name='HST10' />
+    <city name='Hawaii' />
+  </timeZone>
+  <timeZone id='Pacific/Rarotonga' area='Pacific' millis='-36000000' hours='-10'>
+    <city name='Rarotonga' />
+  </timeZone>
+  <timeZone id='Pacific/Tahiti' area='Pacific' millis='-36000000' hours='-10'>
+    <city name='Tahiti' />
+  </timeZone>
+  <timeZone id='Pacific/Marquesas' area='Pacific' millis='-34200000' hours='-9'>
+    <city name='Marquesas' />
+  </timeZone>
+  <timeZone id='America/Anchorage' area='America' millis='-32400000' hours='-9'>
+    <city name='Anchorage' />
+    <city name='Juneau' />
+    <city name='Nome' />
+    <city name='Sitka' />
+    <city name='Yakutat' />
+    <city name='YST9' />
+    <city name='YST9YDT' />
+    <city name='Alaska' />
+  </timeZone>
+  <timeZone id='Pacific/Gambier' area='Pacific' millis='-32400000' hours='-9'>
+    <city name='Gambier' />
+  </timeZone>
+  <timeZone id='America/Dawson' area='America' millis='-28800000' hours='-8'>
+    <city name='Dawson' />
+    <city name='Ensenada' />
+    <city name='Los Angeles' />
+    <city name='Santa Isabel' />
+    <city name='Tijuana' />
+    <city name='Vancouver' />
+    <city name='Whitehorse' />
+    <city name='Pacific' />
+    <city name='Yukon' />
+    <city name='BajaNorte' />
+    <city name='PST8' />
+    <city name='PST8PDT' />
+    <city name='Pacific' />
+    <city name='Pacific-New' />
+  </timeZone>
+  <timeZone id='America/Metlakatla' area='America' millis='-28800000' hours='-8'>
+    <city name='Metlakatla' />
+  </timeZone>
+  <timeZone id='Pacific/Pitcairn' area='Pacific' millis='-28800000' hours='-8'>
+    <city name='Pitcairn' />
+  </timeZone>
+  <timeZone id='America/Boise' area='America' millis='-25200000' hours='-7'>
+    <city name='Boise' />
+    <city name='Cambridge Bay' />
+    <city name='Chihuahua' />
+    <city name='Creston' />
+    <city name='Dawson Creek' />
+    <city name='Denver' />
+    <city name='Edmonton' />
+    <city name='Hermosillo' />
+    <city name='Inuvik' />
+    <city name='Mazatlan' />
+    <city name='Ojinaga' />
+    <city name='Phoenix' />
+    <city name='Shiprock' />
+    <city name='Yellowknife' />
+    <city name='Mountain' />
+    <city name='BajaSur' />
+    <city name='MST7' />
+    <city name='MST7MDT' />
+    <city name='Arizona' />
+    <city name='Mountain' />
+  </timeZone>
+  <timeZone id='America/Bahia_Banderas' area='America' millis='-21600000' hours='-6'>
+    <city name='Bahia Banderas' />
+    <city name='Belize' />
+    <city name='Cancun' />
+    <city name='Chicago' />
+    <city name='Costa Rica' />
+    <city name='El Salvador' />
+    <city name='Guatemala' />
+    <city name='Knox' />
+    <city name='Tell City' />
+    <city name='Knox IN' />
+    <city name='Managua' />
+    <city name='Matamoros' />
+    <city name='Menominee' />
+    <city name='Merida' />
+    <city name='Mexico City' />
+    <city name='Monterrey' />
+    <city name='Beulah' />
+    <city name='Center' />
+    <city name='New Salem' />
+    <city name='Rainy River' />
+    <city name='Rankin Inlet' />
+    <city name='Regina' />
+    <city name='Resolute' />
+    <city name='Swift Current' />
+    <city name='Tegucigalpa' />
+    <city name='Winnipeg' />
+    <city name='Central' />
+    <city name='East-Saskatchewan' />
+    <city name='Saskatchewan' />
+    <city name='General' />
+    <city name='CST6' />
+    <city name='CST6CDT' />
+    <city name='Central' />
+    <city name='Indiana-Starke' />
+  </timeZone>
+  <timeZone id='Chile/EasterIsland' area='Chile' millis='-21600000' hours='-6'>
+    <city name='EasterIsland' />
+    <city name='Easter' />
+  </timeZone>
+  <timeZone id='Pacific/Galapagos' area='Pacific' millis='-21600000' hours='-6'>
+    <city name='Galapagos' />
+  </timeZone>
+  <timeZone id='America/Atikokan' area='America' millis='-18000000' hours='-5'>
+    <city name='Atikokan' />
+    <city name='Cayman' />
+    <city name='Coral Harbour' />
+    <city name='Detroit' />
+    <city name='Fort Wayne' />
+    <city name='Grand Turk' />
+    <city name='Indianapolis' />
+    <city name='Marengo' />
+    <city name='Petersburg' />
+    <city name='Vevay' />
+    <city name='Vincennes' />
+    <city name='Winamac' />
+    <city name='Indianapolis' />
+    <city name='Iqaluit' />
+    <city name='Jamaica' />
+    <city name='Louisville' />
+    <city name='Monticello' />
+    <city name='Louisville' />
+    <city name='Montreal' />
+    <city name='Nassau' />
+    <city name='New York' />
+    <city name='Nipigon' />
+    <city name='Panama' />
+    <city name='Pangnirtung' />
+    <city name='Port-au-Prince' />
+    <city name='Thunder Bay' />
+    <city name='Toronto' />
+    <city name='Eastern' />
+    <city name='EST5' />
+    <city name='EST5EDT' />
+    <city name='East-Indiana' />
+    <city name='Eastern' />
+    <city name='Michigan' />
+  </timeZone>
+  <timeZone id='America/Bogota' area='America' millis='-18000000' hours='-5'>
+    <city name='Bogota' />
+  </timeZone>
+  <timeZone id='America/Guayaquil' area='America' millis='-18000000' hours='-5'>
+    <city name='Guayaquil' />
+  </timeZone>
+  <timeZone id='America/Havana' area='America' millis='-18000000' hours='-5'>
+    <city name='Havana' />
+  </timeZone>
+  <timeZone id='America/Lima' area='America' millis='-18000000' hours='-5'>
+    <city name='Lima' />
+  </timeZone>
+  <timeZone id='America/Caracas' area='America' millis='-16200000' hours='-4'>
+    <city name='Caracas' />
+  </timeZone>
+  <timeZone id='America/Anguilla' area='America' millis='-14400000' hours='-4'>
+    <city name='Anguilla' />
+    <city name='Antigua' />
+    <city name='Aruba' />
+    <city name='Barbados' />
+    <city name='Blanc-Sablon' />
+    <city name='Curacao' />
+    <city name='Dominica' />
+    <city name='Glace Bay' />
+    <city name='Goose Bay' />
+    <city name='Grenada' />
+    <city name='Guadeloupe' />
+    <city name='Halifax' />
+    <city name='Kralendijk' />
+    <city name='Lower Princes' />
+    <city name='Marigot' />
+    <city name='Martinique' />
+    <city name='Moncton' />
+    <city name='Montserrat' />
+    <city name='Port of Spain' />
+    <city name='Puerto Rico' />
+    <city name='Santo Domingo' />
+    <city name='St Barthelemy' />
+    <city name='St Kitts' />
+    <city name='St Lucia' />
+    <city name='St Thomas' />
+    <city name='St Vincent' />
+    <city name='Thule' />
+    <city name='Tortola' />
+    <city name='Virgin' />
+    <city name='Bermuda' />
+    <city name='Atlantic' />
+    <city name='AST4' />
+    <city name='AST4ADT' />
+  </timeZone>
+  <timeZone id='America/Argentina/San_Luis' area='America/Argentina' millis='-14400000' hours='-4'>
+    <city name='San Luis' />
+  </timeZone>
+  <timeZone id='America/Asuncion' area='America' millis='-14400000' hours='-4'>
+    <city name='Asuncion' />
+  </timeZone>
+  <timeZone id='America/Boa_Vista' area='America' millis='-14400000' hours='-4'>
+    <city name='Boa Vista' />
+    <city name='Campo Grande' />
+    <city name='Cuiaba' />
+    <city name='Eirunepe' />
+    <city name='Manaus' />
+    <city name='Porto Acre' />
+    <city name='Porto Velho' />
+    <city name='Rio Branco' />
+    <city name='Acre' />
+    <city name='West' />
+  </timeZone>
+  <timeZone id='America/Guyana' area='America' millis='-14400000' hours='-4'>
+    <city name='Guyana' />
+  </timeZone>
+  <timeZone id='America/La_Paz' area='America' millis='-14400000' hours='-4'>
+    <city name='La Paz' />
+  </timeZone>
+  <timeZone id='America/Santiago' area='America' millis='-14400000' hours='-4'>
+    <city name='Santiago' />
+    <city name='Palmer' />
+    <city name='Continental' />
+  </timeZone>
+  <timeZone id='America/St_Johns' area='America' millis='-12600000' hours='-3'>
+    <city name='St Johns' />
+    <city name='Newfoundland' />
+  </timeZone>
+  <timeZone id='America/Araguaina' area='America' millis='-10800000' hours='-3'>
+    <city name='Araguaina' />
+    <city name='Bahia' />
+    <city name='Belem' />
+    <city name='Fortaleza' />
+    <city name='Maceio' />
+    <city name='Recife' />
+    <city name='Santarem' />
+    <city name='Sao Paulo' />
+    <city name='East' />
+  </timeZone>
+  <timeZone id='America/Argentina/Buenos_Aires' area='America/Argentina' millis='-10800000' hours='-3'>
+    <city name='Buenos Aires' />
+    <city name='Catamarca' />
+    <city name='ComodRivadavia' />
+    <city name='Cordoba' />
+    <city name='Jujuy' />
+    <city name='La Rioja' />
+    <city name='Mendoza' />
+    <city name='Rio Gallegos' />
+    <city name='Salta' />
+    <city name='San Juan' />
+    <city name='Tucuman' />
+    <city name='Ushuaia' />
+    <city name='Buenos Aires' />
+    <city name='Catamarca' />
+    <city name='Cordoba' />
+    <city name='Jujuy' />
+    <city name='Mendoza' />
+    <city name='Rosario' />
+  </timeZone>
+  <timeZone id='America/Cayenne' area='America' millis='-10800000' hours='-3'>
+    <city name='Cayenne' />
+  </timeZone>
+  <timeZone id='America/Godthab' area='America' millis='-10800000' hours='-3'>
+    <city name='Godthab' />
+  </timeZone>
+  <timeZone id='America/Miquelon' area='America' millis='-10800000' hours='-3'>
+    <city name='Miquelon' />
+  </timeZone>
+  <timeZone id='America/Montevideo' area='America' millis='-10800000' hours='-3'>
+    <city name='Montevideo' />
+  </timeZone>
+  <timeZone id='America/Paramaribo' area='America' millis='-10800000' hours='-3'>
+    <city name='Paramaribo' />
+  </timeZone>
+  <timeZone id='Antarctica/Rothera' area='Antarctica' millis='-10800000' hours='-3'>
+    <city name='Rothera' />
+  </timeZone>
+  <timeZone id='Atlantic/Stanley' area='Atlantic' millis='-10800000' hours='-3'>
+    <city name='Stanley' />
+  </timeZone>
+  <timeZone id='America/Noronha' area='America' millis='-7200000' hours='-2'>
+    <city name='Noronha' />
+    <city name='DeNoronha' />
+  </timeZone>
+  <timeZone id='Atlantic/South_Georgia' area='Atlantic' millis='-7200000' hours='-2'>
+    <city name='South Georgia' />
+  </timeZone>
+  <timeZone id='America/Scoresbysund' area='America' millis='-3600000' hours='-1'>
+    <city name='Scoresbysund' />
+  </timeZone>
+  <timeZone id='Atlantic/Azores' area='Atlantic' millis='-3600000' hours='-1'>
+    <city name='Azores' />
+  </timeZone>
+  <timeZone id='Atlantic/Cape_Verde' area='Atlantic' millis='-3600000' hours='-1'>
+    <city name='Cape Verde' />
+  </timeZone>
+  <timeZone id='Africa/Abidjan' area='Africa' millis='0' hours='0'>
+    <city name='Abidjan' />
+    <city name='Bamako' />
+    <city name='Banjul' />
+    <city name='Bissau' />
+    <city name='Conakry' />
+    <city name='Dakar' />
+    <city name='Freetown' />
+    <city name='Lome' />
+    <city name='Monrovia' />
+    <city name='Nouakchott' />
+    <city name='Ouagadougou' />
+    <city name='Sao Tome' />
+    <city name='Timbuktu' />
+    <city name='Danmarkshavn' />
+    <city name='Reykjavik' />
+    <city name='St Helena' />
+    <city name='Greenwich' />
+    <city name='Belfast' />
+    <city name='Dublin' />
+    <city name='Guernsey' />
+    <city name='Isle of Man' />
+    <city name='Jersey' />
+    <city name='London' />
+  </timeZone>
+  <timeZone id='Africa/Accra' area='Africa' millis='0' hours='0'>
+    <city name='Accra' />
+  </timeZone>
+  <timeZone id='Africa/Casablanca' area='Africa' millis='0' hours='0'>
+    <city name='Casablanca' />
+    <city name='El Aaiun' />
+    <city name='Canary' />
+    <city name='Faeroe' />
+    <city name='Faroe' />
+    <city name='Madeira' />
+    <city name='Lisbon' />
+  </timeZone>
+  <timeZone id='Etc/UCT' area='Etc' millis='0' hours='0'>
+    <city name='UCT' />
+    <city name='UTC' />
+    <city name='Universal' />
+    <city name='Zulu' />
+  </timeZone>
+  <timeZone id='Africa/Algiers' area='Africa' millis='3600000' hours='1'>
+    <city name='Algiers' />
+    <city name='Ceuta' />
+    <city name='Tunis' />
+    <city name='Longyearbyen' />
+    <city name='Jan Mayen' />
+    <city name='Amsterdam' />
+    <city name='Andorra' />
+    <city name='Belgrade' />
+    <city name='Berlin' />
+    <city name='Bratislava' />
+    <city name='Brussels' />
+    <city name='Budapest' />
+    <city name='Copenhagen' />
+    <city name='Gibraltar' />
+    <city name='Ljubljana' />
+    <city name='Luxembourg' />
+    <city name='Madrid' />
+    <city name='Malta' />
+    <city name='Monaco' />
+    <city name='Oslo' />
+    <city name='Paris' />
+    <city name='Podgorica' />
+    <city name='Prague' />
+    <city name='Rome' />
+    <city name='San Marino' />
+    <city name='Sarajevo' />
+    <city name='Skopje' />
+    <city name='Stockholm' />
+    <city name='Tirane' />
+    <city name='Vaduz' />
+    <city name='Vatican' />
+    <city name='Vienna' />
+    <city name='Warsaw' />
+    <city name='Zagreb' />
+    <city name='Zurich' />
+  </timeZone>
+  <timeZone id='Africa/Bangui' area='Africa' millis='3600000' hours='1'>
+    <city name='Bangui' />
+    <city name='Brazzaville' />
+    <city name='Douala' />
+    <city name='Kinshasa' />
+    <city name='Lagos' />
+    <city name='Libreville' />
+    <city name='Luanda' />
+    <city name='Malabo' />
+    <city name='Ndjamena' />
+    <city name='Niamey' />
+    <city name='Porto-Novo' />
+    <city name='Windhoek' />
+  </timeZone>
+  <timeZone id='Africa/Blantyre' area='Africa' millis='7200000' hours='2'>
+    <city name='Blantyre' />
+    <city name='Bujumbura' />
+    <city name='Gaborone' />
+    <city name='Harare' />
+    <city name='Kigali' />
+    <city name='Lubumbashi' />
+    <city name='Lusaka' />
+    <city name='Maputo' />
+  </timeZone>
+  <timeZone id='Africa/Cairo' area='Africa' millis='7200000' hours='2'>
+    <city name='Cairo' />
+    <city name='Tripoli' />
+    <city name='Amman' />
+    <city name='Beirut' />
+    <city name='Damascus' />
+    <city name='Gaza' />
+    <city name='Hebron' />
+    <city name='Istanbul' />
+    <city name='Nicosia' />
+    <city name='Athens' />
+    <city name='Bucharest' />
+    <city name='Chisinau' />
+    <city name='Helsinki' />
+    <city name='Istanbul' />
+    <city name='Kiev' />
+    <city name='Mariehamn' />
+    <city name='Nicosia' />
+    <city name='Riga' />
+    <city name='Simferopol' />
+    <city name='Sofia' />
+    <city name='Tallinn' />
+    <city name='Tiraspol' />
+    <city name='Uzhgorod' />
+    <city name='Vilnius' />
+    <city name='Zaporozhye' />
+  </timeZone>
+  <timeZone id='Africa/Johannesburg' area='Africa' millis='7200000' hours='2'>
+    <city name='Johannesburg' />
+    <city name='Maseru' />
+    <city name='Mbabane' />
+  </timeZone>
+  <timeZone id='Asia/Jerusalem' area='Asia' millis='7200000' hours='2'>
+    <city name='Jerusalem' />
+    <city name='Tel Aviv' />
+  </timeZone>
+  <timeZone id='Africa/Addis_Ababa' area='Africa' millis='10800000' hours='3'>
+    <city name='Addis Ababa' />
+    <city name='Asmara' />
+    <city name='Asmera' />
+    <city name='Dar es Salaam' />
+    <city name='Djibouti' />
+    <city name='Juba' />
+    <city name='Kampala' />
+    <city name='Khartoum' />
+    <city name='Mogadishu' />
+    <city name='Nairobi' />
+    <city name='Antananarivo' />
+    <city name='Comoro' />
+    <city name='Mayotte' />
+  </timeZone>
+  <timeZone id='Antarctica/Syowa' area='Antarctica' millis='10800000' hours='3'>
+    <city name='Syowa' />
+  </timeZone>
+  <timeZone id='Asia/Aden' area='Asia' millis='10800000' hours='3'>
+    <city name='Aden' />
+    <city name='Baghdad' />
+    <city name='Bahrain' />
+    <city name='Kuwait' />
+    <city name='Qatar' />
+    <city name='Riyadh' />
+  </timeZone>
+  <timeZone id='Europe/Kaliningrad' area='Europe' millis='10800000' hours='3'>
+    <city name='Kaliningrad' />
+    <city name='Minsk' />
+  </timeZone>
+  <timeZone id='Asia/Riyadh87' area='Asia' millis='11224000' hours='3'>
+    <city name='Riyadh87' />
+    <city name='Riyadh88' />
+    <city name='Riyadh89' />
+    <city name='Riyadh87' />
+    <city name='Riyadh88' />
+    <city name='Riyadh89' />
+  </timeZone>
+  <timeZone id='Asia/Tehran' area='Asia' millis='12600000' hours='4'>
+    <city name='Tehran' />
+  </timeZone>
+  <timeZone id='Asia/Baku' area='Asia' millis='14400000' hours='4'>
+    <city name='Baku' />
+  </timeZone>
+  <timeZone id='Asia/Dubai' area='Asia' millis='14400000' hours='4'>
+    <city name='Dubai' />
+    <city name='Muscat' />
+  </timeZone>
+  <timeZone id='Asia/Tbilisi' area='Asia' millis='14400000' hours='4'>
+    <city name='Tbilisi' />
+  </timeZone>
+  <timeZone id='Asia/Yerevan' area='Asia' millis='14400000' hours='4'>
+    <city name='Yerevan' />
+  </timeZone>
+  <timeZone id='Europe/Moscow' area='Europe' millis='14400000' hours='4'>
+    <city name='Moscow' />
+  </timeZone>
+  <timeZone id='Europe/Samara' area='Europe' millis='14400000' hours='4'>
+    <city name='Samara' />
+  </timeZone>
+  <timeZone id='Europe/Volgograd' area='Europe' millis='14400000' hours='4'>
+    <city name='Volgograd' />
+  </timeZone>
+  <timeZone id='Indian/Mahe' area='Indian' millis='14400000' hours='4'>
+    <city name='Mahe' />
+  </timeZone>
+  <timeZone id='Indian/Mauritius' area='Indian' millis='14400000' hours='4'>
+    <city name='Mauritius' />
+  </timeZone>
+  <timeZone id='Indian/Reunion' area='Indian' millis='14400000' hours='4'>
+    <city name='Reunion' />
+  </timeZone>
+  <timeZone id='Asia/Kabul' area='Asia' millis='16200000' hours='5'>
+    <city name='Kabul' />
+  </timeZone>
+  <timeZone id='Antarctica/Mawson' area='Antarctica' millis='18000000' hours='5'>
+    <city name='Mawson' />
+  </timeZone>
+  <timeZone id='Asia/Aqtau' area='Asia' millis='18000000' hours='5'>
+    <city name='Aqtau' />
+  </timeZone>
+  <timeZone id='Asia/Aqtobe' area='Asia' millis='18000000' hours='5'>
+    <city name='Aqtobe' />
+  </timeZone>
+  <timeZone id='Asia/Ashgabat' area='Asia' millis='18000000' hours='5'>
+    <city name='Ashgabat' />
+    <city name='Ashkhabad' />
+  </timeZone>
+  <timeZone id='Asia/Dushanbe' area='Asia' millis='18000000' hours='5'>
+    <city name='Dushanbe' />
+  </timeZone>
+  <timeZone id='Asia/Karachi' area='Asia' millis='18000000' hours='5'>
+    <city name='Karachi' />
+  </timeZone>
+  <timeZone id='Asia/Oral' area='Asia' millis='18000000' hours='5'>
+    <city name='Oral' />
+  </timeZone>
+  <timeZone id='Asia/Samarkand' area='Asia' millis='18000000' hours='5'>
+    <city name='Samarkand' />
+    <city name='Tashkent' />
+  </timeZone>
+  <timeZone id='Indian/Kerguelen' area='Indian' millis='18000000' hours='5'>
+    <city name='Kerguelen' />
+  </timeZone>
+  <timeZone id='Indian/Maldives' area='Indian' millis='18000000' hours='5'>
+    <city name='Maldives' />
+  </timeZone>
+  <timeZone id='Asia/Calcutta' area='Asia' millis='19800000' hours='6'>
+    <city name='Calcutta' />
+    <city name='Colombo' />
+    <city name='Kolkata' />
+  </timeZone>
+  <timeZone id='Asia/Kathmandu' area='Asia' millis='20700000' hours='6'>
+    <city name='Kathmandu' />
+    <city name='Katmandu' />
+  </timeZone>
+  <timeZone id='Antarctica/Vostok' area='Antarctica' millis='21600000' hours='6'>
+    <city name='Vostok' />
+  </timeZone>
+  <timeZone id='Asia/Almaty' area='Asia' millis='21600000' hours='6'>
+    <city name='Almaty' />
+  </timeZone>
+  <timeZone id='Asia/Bishkek' area='Asia' millis='21600000' hours='6'>
+    <city name='Bishkek' />
+  </timeZone>
+  <timeZone id='Asia/Dacca' area='Asia' millis='21600000' hours='6'>
+    <city name='Dacca' />
+    <city name='Dhaka' />
+  </timeZone>
+  <timeZone id='Asia/Qyzylorda' area='Asia' millis='21600000' hours='6'>
+    <city name='Qyzylorda' />
+  </timeZone>
+  <timeZone id='Asia/Thimbu' area='Asia' millis='21600000' hours='6'>
+    <city name='Thimbu' />
+    <city name='Thimphu' />
+  </timeZone>
+  <timeZone id='Asia/Yekaterinburg' area='Asia' millis='21600000' hours='6'>
+    <city name='Yekaterinburg' />
+  </timeZone>
+  <timeZone id='Indian/Chagos' area='Indian' millis='21600000' hours='6'>
+    <city name='Chagos' />
+  </timeZone>
+  <timeZone id='Asia/Rangoon' area='Asia' millis='23400000' hours='7'>
+    <city name='Rangoon' />
+  </timeZone>
+  <timeZone id='Indian/Cocos' area='Indian' millis='23400000' hours='7'>
+    <city name='Cocos' />
+  </timeZone>
+  <timeZone id='Antarctica/Davis' area='Antarctica' millis='25200000' hours='7'>
+    <city name='Davis' />
+  </timeZone>
+  <timeZone id='Asia/Bangkok' area='Asia' millis='25200000' hours='7'>
+    <city name='Bangkok' />
+    <city name='Ho Chi Minh' />
+    <city name='Phnom Penh' />
+    <city name='Saigon' />
+    <city name='Vientiane' />
+  </timeZone>
+  <timeZone id='Asia/Hovd' area='Asia' millis='25200000' hours='7'>
+    <city name='Hovd' />
+  </timeZone>
+  <timeZone id='Asia/Jakarta' area='Asia' millis='25200000' hours='7'>
+    <city name='Jakarta' />
+    <city name='Pontianak' />
+  </timeZone>
+  <timeZone id='Asia/Novokuznetsk' area='Asia' millis='25200000' hours='7'>
+    <city name='Novokuznetsk' />
+    <city name='Novosibirsk' />
+  </timeZone>
+  <timeZone id='Asia/Omsk' area='Asia' millis='25200000' hours='7'>
+    <city name='Omsk' />
+  </timeZone>
+  <timeZone id='Indian/Christmas' area='Indian' millis='25200000' hours='7'>
+    <city name='Christmas' />
+  </timeZone>
+  <timeZone id='Antarctica/Casey' area='Antarctica' millis='28800000' hours='8'>
+    <city name='Casey' />
+    <city name='Perth' />
+    <city name='West' />
+  </timeZone>
+  <timeZone id='Asia/Brunei' area='Asia' millis='28800000' hours='8'>
+    <city name='Brunei' />
+  </timeZone>
+  <timeZone id='Asia/Choibalsan' area='Asia' millis='28800000' hours='8'>
+    <city name='Choibalsan' />
+  </timeZone>
+  <timeZone id='Asia/Chongqing' area='Asia' millis='28800000' hours='8'>
+    <city name='Chongqing' />
+    <city name='Chungking' />
+    <city name='Harbin' />
+    <city name='Kashgar' />
+    <city name='Macao' />
+    <city name='Macau' />
+    <city name='Shanghai' />
+    <city name='Taipei' />
+    <city name='Urumqi' />
+  </timeZone>
+  <timeZone id='Asia/Hong_Kong' area='Asia' millis='28800000' hours='8'>
+    <city name='Hong Kong' />
+  </timeZone>
+  <timeZone id='Asia/Krasnoyarsk' area='Asia' millis='28800000' hours='8'>
+    <city name='Krasnoyarsk' />
+  </timeZone>
+  <timeZone id='Asia/Kuala_Lumpur' area='Asia' millis='28800000' hours='8'>
+    <city name='Kuala Lumpur' />
+    <city name='Kuching' />
+  </timeZone>
+  <timeZone id='Asia/Makassar' area='Asia' millis='28800000' hours='8'>
+    <city name='Makassar' />
+    <city name='Ujung Pandang' />
+  </timeZone>
+  <timeZone id='Asia/Manila' area='Asia' millis='28800000' hours='8'>
+    <city name='Manila' />
+  </timeZone>
+  <timeZone id='Asia/Singapore' area='Asia' millis='28800000' hours='8'>
+    <city name='Singapore' />
+  </timeZone>
+  <timeZone id='Asia/Ulaanbaatar' area='Asia' millis='28800000' hours='8'>
+    <city name='Ulaanbaatar' />
+    <city name='Ulan Bator' />
+  </timeZone>
+  <timeZone id='Australia/Eucla' area='Australia' millis='31500000' hours='9'>
+    <city name='Eucla' />
+  </timeZone>
+  <timeZone id='Asia/Dili' area='Asia' millis='32400000' hours='9'>
+    <city name='Dili' />
+  </timeZone>
+  <timeZone id='Asia/Irkutsk' area='Asia' millis='32400000' hours='9'>
+    <city name='Irkutsk' />
+  </timeZone>
+  <timeZone id='Asia/Jayapura' area='Asia' millis='32400000' hours='9'>
+    <city name='Jayapura' />
+  </timeZone>
+  <timeZone id='Asia/Pyongyang' area='Asia' millis='32400000' hours='9'>
+    <city name='Pyongyang' />
+    <city name='Seoul' />
+  </timeZone>
+  <timeZone id='Asia/Tokyo' area='Asia' millis='32400000' hours='9'>
+    <city name='Tokyo' />
+  </timeZone>
+  <timeZone id='Pacific/Palau' area='Pacific' millis='32400000' hours='9'>
+    <city name='Palau' />
+  </timeZone>
+  <timeZone id='Australia/Adelaide' area='Australia' millis='34200000' hours='10'>
+    <city name='Adelaide' />
+    <city name='South' />
+  </timeZone>
+  <timeZone id='Australia/Broken_Hill' area='Australia' millis='34200000' hours='10'>
+    <city name='Broken Hill' />
+    <city name='Yancowinna' />
+  </timeZone>
+  <timeZone id='Australia/Darwin' area='Australia' millis='34200000' hours='10'>
+    <city name='Darwin' />
+    <city name='North' />
+  </timeZone>
+  <timeZone id='Antarctica/DumontDUrville' area='Antarctica' millis='36000000' hours='10'>
+    <city name='DumontDUrville' />
+  </timeZone>
+  <timeZone id='Asia/Yakutsk' area='Asia' millis='36000000' hours='10'>
+    <city name='Yakutsk' />
+  </timeZone>
+  <timeZone id='Australia/ACT' area='Australia' millis='36000000' hours='10'>
+    <city name='ACT' />
+    <city name='Canberra' />
+    <city name='Currie' />
+    <city name='NSW' />
+    <city name='Sydney' />
+  </timeZone>
+  <timeZone id='Australia/Brisbane' area='Australia' millis='36000000' hours='10'>
+    <city name='Brisbane' />
+    <city name='Lindeman' />
+    <city name='Queensland' />
+  </timeZone>
+  <timeZone id='Australia/Hobart' area='Australia' millis='36000000' hours='10'>
+    <city name='Hobart' />
+    <city name='Tasmania' />
+  </timeZone>
+  <timeZone id='Australia/Melbourne' area='Australia' millis='36000000' hours='10'>
+    <city name='Melbourne' />
+    <city name='Victoria' />
+  </timeZone>
+  <timeZone id='Pacific/Chuuk' area='Pacific' millis='36000000' hours='10'>
+    <city name='Chuuk' />
+    <city name='Truk' />
+    <city name='Yap' />
+  </timeZone>
+  <timeZone id='Pacific/Guam' area='Pacific' millis='36000000' hours='10'>
+    <city name='Guam' />
+    <city name='Saipan' />
+  </timeZone>
+  <timeZone id='Pacific/Port_Moresby' area='Pacific' millis='36000000' hours='10'>
+    <city name='Port Moresby' />
+  </timeZone>
+  <timeZone id='Australia/LHI' area='Australia' millis='37800000' hours='11'>
+    <city name='LHI' />
+    <city name='Lord Howe' />
+  </timeZone>
+  <timeZone id='Antarctica/Macquarie' area='Antarctica' millis='39600000' hours='11'>
+    <city name='Macquarie' />
+  </timeZone>
+  <timeZone id='Asia/Sakhalin' area='Asia' millis='39600000' hours='11'>
+    <city name='Sakhalin' />
+  </timeZone>
+  <timeZone id='Asia/Vladivostok' area='Asia' millis='39600000' hours='11'>
+    <city name='Vladivostok' />
+  </timeZone>
+  <timeZone id='Pacific/Efate' area='Pacific' millis='39600000' hours='11'>
+    <city name='Efate' />
+  </timeZone>
+  <timeZone id='Pacific/Guadalcanal' area='Pacific' millis='39600000' hours='11'>
+    <city name='Guadalcanal' />
+  </timeZone>
+  <timeZone id='Pacific/Kosrae' area='Pacific' millis='39600000' hours='11'>
+    <city name='Kosrae' />
+  </timeZone>
+  <timeZone id='Pacific/Noumea' area='Pacific' millis='39600000' hours='11'>
+    <city name='Noumea' />
+  </timeZone>
+  <timeZone id='Pacific/Pohnpei' area='Pacific' millis='39600000' hours='11'>
+    <city name='Pohnpei' />
+    <city name='Ponape' />
+  </timeZone>
+  <timeZone id='Pacific/Norfolk' area='Pacific' millis='41400000' hours='12'>
+    <city name='Norfolk' />
+  </timeZone>
+  <timeZone id='Antarctica/McMurdo' area='Antarctica' millis='43200000' hours='12'>
+    <city name='McMurdo' />
+    <city name='South Pole' />
+    <city name='Auckland' />
+  </timeZone>
+  <timeZone id='Asia/Anadyr' area='Asia' millis='43200000' hours='12'>
+    <city name='Anadyr' />
+  </timeZone>
+  <timeZone id='Asia/Kamchatka' area='Asia' millis='43200000' hours='12'>
+    <city name='Kamchatka' />
+  </timeZone>
+  <timeZone id='Asia/Magadan' area='Asia' millis='43200000' hours='12'>
+    <city name='Magadan' />
+  </timeZone>
+  <timeZone id='Pacific/Fiji' area='Pacific' millis='43200000' hours='12'>
+    <city name='Fiji' />
+  </timeZone>
+  <timeZone id='Pacific/Funafuti' area='Pacific' millis='43200000' hours='12'>
+    <city name='Funafuti' />
+  </timeZone>
+  <timeZone id='Pacific/Kwajalein' area='Pacific' millis='43200000' hours='12'>
+    <city name='Kwajalein' />
+    <city name='Majuro' />
+  </timeZone>
+  <timeZone id='Pacific/Nauru' area='Pacific' millis='43200000' hours='12'>
+    <city name='Nauru' />
+  </timeZone>
+  <timeZone id='Pacific/Tarawa' area='Pacific' millis='43200000' hours='12'>
+    <city name='Tarawa' />
+  </timeZone>
+  <timeZone id='Pacific/Wake' area='Pacific' millis='43200000' hours='12'>
+    <city name='Wake' />
+  </timeZone>
+  <timeZone id='Pacific/Wallis' area='Pacific' millis='43200000' hours='12'>
+    <city name='Wallis' />
+  </timeZone>
+  <timeZone id='Pacific/Chatham' area='Pacific' millis='45900000' hours='13'>
+    <city name='Chatham' />
+  </timeZone>
+  <timeZone id='Pacific/Apia' area='Pacific' millis='46800000' hours='13'>
+    <city name='Apia' />
+  </timeZone>
+  <timeZone id='Pacific/Enderbury' area='Pacific' millis='46800000' hours='13'>
+    <city name='Enderbury' />
+  </timeZone>
+  <timeZone id='Pacific/Tongatapu' area='Pacific' millis='46800000' hours='13'>
+    <city name='Tongatapu' />
+  </timeZone>
+  <timeZone id='Pacific/Fakaofo' area='Pacific' millis='50400000' hours='14'>
+    <city name='Fakaofo' />
+  </timeZone>
+  <timeZone id='Pacific/Kiritimati' area='Pacific' millis='50400000' hours='14'>
+    <city name='Kiritimati' />
+  </timeZone>
+</timeZones>
+}}}
